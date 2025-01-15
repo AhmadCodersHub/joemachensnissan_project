@@ -4,7 +4,7 @@
 [https://www.joemachensnissan.com/new-vehicles/](https://www.joemachensnissan.com/new-vehicles/)
 
 ## Objective  
-Extract all the details mentioned in the provided screenshots from the website.
+Extract all the details mentioned in the provided screenshots from the website. And save the data into Csv file.
 ![Screenshot 2025-01-15 095740](https://github.com/user-attachments/assets/2b37461f-5d46-46a4-87d3-59b2c57b52cc)
 
 
